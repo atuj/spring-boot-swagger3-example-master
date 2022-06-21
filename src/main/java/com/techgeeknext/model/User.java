@@ -4,13 +4,9 @@ package com.techgeeknext.model;
 public class User {
 
 	private int id;
-
 	private String name;
-
 	private String role;
-
 	private String email;
-
 	public User(int id, String name, String role, String email) {
 		this.id = id;
 		this.name = name;
